@@ -1,0 +1,22 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "title": "food",
+            "amount": 125.0,
+            "category": "Food",
+            "date": "2026-11-07"
+        },
+        {
+            "id": 2,
+            "title": "2fh",
+            "amount": 458.0,
+            "category": "Personal Care",
+            "date": "2026-11-07"
+        }
+    ],
+    "next_id": 3,
+    "monthly_budgets": {
+        "2026-09": 3000.0
+    }
+}
